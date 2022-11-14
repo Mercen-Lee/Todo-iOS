@@ -1,9 +1,5 @@
-//
-//  MainVC.swift
-//  Todo
-//
-//  Created by Mercen on 2022/10/31.
-//
+/// Main ViewController
+/// Created by Mercen on 2022/10/31.
 
 import UIKit
 

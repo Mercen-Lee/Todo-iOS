@@ -1,9 +1,5 @@
-//
-//  AppDelegate.swift
-//  Todo
-//
-//  Created by Mercen on 2022/10/31.
-//
+/// App Delegate
+/// Created by Mercen on 2022/10/31.
 
 import UIKit
 

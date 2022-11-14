@@ -1,9 +1,5 @@
-//
-//  TodoVC.swift
-//  Todo
-//
-//  Created by Mercen on 2022/11/03.
-//
+/// Todo ViewController
+/// Created by Mercen on 2022/11/03.
 
 import UIKit
 import SnapKit
